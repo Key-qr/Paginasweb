@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto</title>
+
+    <style>
+        body {
+            font-size: 15px;
+        }
+    </style>
+
+</head>
+<body>
+    <CENTER> 
+    <h1>Bienvenido</h1>
+    </CENTER>
+    <h2>Mi primera pagina web</h2>
+    <h3>Solo es un pequeño proyecto de inicio</h3>
+</body>
+</html>
+
+RESULTADO: Iniciar Depuración 
